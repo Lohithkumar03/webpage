@@ -1,0 +1,76 @@
+/* body {
+    background: black;
+} */
+@font-face {
+    font-family: Quando;
+    src: url(Quando-Regular.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+.img-sentence h3 {
+    font-family: Quando;
+    font-weight: 100;
+    color: cornflowerblue;
+}
+
+@font-face {
+    font-family: Lemonada-Light;
+    src: url(Lemonada-Light.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+.dropdownmain button{
+    font-family: Lemonada-Light;
+    font-weight: 100;
+}
+
+
+@font-face {
+    font-family: Lemonada-Bold;
+    src: url(Lemonada-Bold.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+.top h1, .img-sentence h1 {
+    font-family: Lemonada-Bold;
+    font-weight: 50;
+}
+
+@font-face {
+    font-family: Lemonada-VariableFont_wght;
+    src: url(Lemonada-VariableFont_wght.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+.img-sentence p, .img-sentence input[type="submit"] {
+    font-family: Lemonada-VariableFont_wght;
+}
+
+
+@font-face {
+    font-family: Lemonada-Regular;
+    src: url(Lemonada-Regular.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+.bottom h1, .bottom p {
+    font-family: Lemonada-Regular;
+}
+
+@font-face {
+    font-family: Lemonada-Medium;
+    src: url(Lemonada-Medium.ttf);
+    font-style: normal;
+    /* font-weight: 100; */
+}
+
+.dropdown-content a  {
+    font-family: Lemonada-Medium;
+}
